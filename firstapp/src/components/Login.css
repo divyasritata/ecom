@@ -1,7 +1,7 @@
 /* Full screen background */
 .login-bg {
   min-height: 100vh;
-  background:url("https://t3.ftcdn.net/jpg/02/92/90/56/360_F_292905667_yFUJNJPngYeRNlrRL4hApHWxuYyRY4kN.jpg")center/cover no-repeat;
+  background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTaYVG_iCjqtC3bXEKrVyw1a1VUNpkA7fViw&s")center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
